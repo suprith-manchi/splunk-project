@@ -1,6 +1,10 @@
 # splunk-project
 Analyzing DNS Log Files and HTTP Log Files  Using Splunk SIEM
+
+
 Introduction
+
+
 HTTP (Hypertext Transfer Protocol) log files contain valuable information about web server activity, including requests, responses, user agents, and more. Analyzing HTTP logs using Splunk SIEM enables security professionals to monitor web traffic, detect anomalies, and identify potential security threats.
 
 Project Overview
